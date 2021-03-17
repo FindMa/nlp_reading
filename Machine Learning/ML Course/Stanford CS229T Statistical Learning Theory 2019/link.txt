@@ -1,0 +1,2 @@
+http://web.stanford.edu/class/cs229t/
+https://haipeng-luo.net/index.html
