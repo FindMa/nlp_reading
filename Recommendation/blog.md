@@ -1,0 +1,47 @@
+### Youtube
+
+* [YouTube深度学习推荐系统的十大工程问题](https://www.jiqizhixin.com/articles/2020-10-28-5)
+
+
+
+### 腾讯
+
+* [独家揭秘腾讯PCG推荐中台大杀器：无量系统的升级之路](https://www.jiqizhixin.com/articles/2021-03-23-8)
+* [腾讯QQ看点团队：用迁移学习架构解决短视频冷启推荐问题](https://www.jiqizhixin.com/articles/2020-10-31-5)
+
+
+
+### 阿里
+
+* [淘宝推荐、视频搜索背后的检索技术：深度揭秘达摩院向量检索引擎Proxima](https://www.jiqizhixin.com/articles/2021-03-08-7)
+* [天猫双11订单峰值58.3万笔/秒，消费狂欢背后隐藏了哪些技术？](https://www.jiqizhixin.com/articles/2020-11-11-5)
+
+* [解读阿里云PAI模型压缩技术落地实时移动端智能应用](https://www.jiqizhixin.com/articles/2021-02-18-2)
+
+
+
+### 快手
+
+* [1.9万亿参数量，快手落地业界首个万亿参数推荐精排模型](https://www.jiqizhixin.com/articles/2021-02-03-6)
+
+
+
+### 京东
+
+* [深度解读展会场景智能推荐搭建之路 | 会展云技术解读](https://www.jiqizhixin.com/articles/2020-11-05-6)
+* [电商推荐系统做到60分容易，达到80分、90分却很难](https://www.jiqizhixin.com/articles/2020-09-04-12)
+
+
+
+[搜索推荐广告排序之用户行为序列建模](https://zhuanlan.zhihu.com/p/354754356)
+
+[Transformer是巧合还是必然？搜索推荐领域的新潮流](https://mp.weixin.qq.com/s?__biz=Mzg4MzU1NjQ2Mw==&mid=2247492730&idx=1&sn=219b37697e3f6e11db0fbde11d72e79d&chksm=cf470d7af830846c932169c9c94f567171ca253c3ab4027c281830da6ac522996682421bb88a&mpshare=1&scene=1&srcid=0322qQpNnFpHVpGoIeE6KFFw&sharer_sharetime=1616421534394&sharer_shareid=bce0786e4f1449b9738bd32da860598c&exportkey=AfXrDFbkTTspLagfJklFm8c%3D&pass_ticket=eVkBrVnsS%2FwBsuA0sZN2hn6AT1RUvWYNm%2FBKPxXzFIJIPSipAqD1OPUlqMtCPJ8%2F&wx_header=0#rd)
+
+[在推荐系统中，我还有隐私吗？联邦学习：你可以有](https://www.jiqizhixin.com/articles/2020-11-19-5)
+
+[可解释推荐系统：知其然，知其所以然](https://www.msra.cn/zh-cn/news/features/explainable-recommender-system-ii)
+
+[个性化推荐系统实践应用](https://www.jiqizhixin.com/articles/2019-02-11-6)
+
+
+
