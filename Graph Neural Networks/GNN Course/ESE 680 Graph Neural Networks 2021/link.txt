@@ -1,0 +1,2 @@
+https://gnn.seas.upenn.edu/
+https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks/
