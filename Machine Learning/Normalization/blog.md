@@ -1,0 +1,1 @@
+* [深度学习中的标准化——Normalization Methods in Deep Learning](https://zhuanlan.zhihu.com/p/234698064)
