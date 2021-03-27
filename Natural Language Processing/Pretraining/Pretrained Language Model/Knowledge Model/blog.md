@@ -1,0 +1,1 @@
+[BERT meet Knowledge Graph：预训练模型与知识图谱相结合的研究进展](https://zhuanlan.zhihu.com/p/323968636)
