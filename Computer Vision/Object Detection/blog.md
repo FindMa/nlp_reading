@@ -1,1 +1,0 @@
-[1.8M超轻量目标检测模型NanoDet，比YOLO跑得快，上线两天Star量超500](https://www.jiqizhixin.com/articles/2020-11-24-5)
