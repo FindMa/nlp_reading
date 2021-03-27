@@ -1,0 +1,1 @@
+* [6个用于文本分类的最新开源预训练模型（NLP必备）](https://zhuanlan.zhihu.com/p/212413076)
