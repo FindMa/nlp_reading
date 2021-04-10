@@ -1,1 +1,0 @@
-* [76分钟训练BERT！谷歌深度学习的大批量优化研究被ICLR 2020接收](https://zhuanlan.zhihu.com/p/102544261)
