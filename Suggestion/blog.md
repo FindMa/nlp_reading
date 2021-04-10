@@ -4,6 +4,7 @@
 * [你应该掌握的超超能力：如何将深度学习研究论文实现为代码的几个要点](https://zhuanlan.zhihu.com/p/301090853)
 * [简单高效！麻省理工学院给研究生的文献阅读方法](https://zhuanlan.zhihu.com/p/285807714)
 * [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://zhuanlan.zhihu.com/p/163617565)
+* [沈向洋：读论文的三个层次](https://www.leiphone.com/news/202005/ZLfwQXJmWP0oJMMl.html)
 * [沈向洋自述：人生教会我七堂课](https://zhuanlan.zhihu.com/p/58245042)
 * [百度陆奇最新内部演讲：人工智能时代，给工程师的5个建议](https://zhuanlan.zhihu.com/p/27860825)
 * [怎样构建深度学习模型？六步走，过拟合是最大的怪兽 | 入门指南](https://zhuanlan.zhihu.com/p/38893314)
