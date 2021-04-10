@@ -1,6 +1,9 @@
+* [如何看待Transformer在CV上的应用前景，未来有可能替代CNN吗？](https://www.zhihu.com/question/437495132/answer/1800881612)
+
+
+
 [2102.05095](https://arxiv.org/pdf/2102.05095.pdf)
 
-* Title: **Is Space-Time Attention All You Need for Video Understanding?**
 * [训练速度远超3D CNN，提速3倍！Transformer](https://zhuanlan.zhihu.com/p/358075560)
 
 
@@ -15,3 +18,10 @@
 
 * [github](https://github.com/MenghaoGuo/PCT)
 * [清华团队将Transformer用到3D点云分割上后，效果好极了丨开源](https://www.qbitai.com/2020/12/20556.html)
+
+
+
+[2103.14030](https://arxiv.org/pdf/2103.14030.pdf)
+
+* [github](https://github.com/microsoft/Swin-Transformer)
+* [屠榜各大CV任务！Swin Transformer：层次化视觉Transformer](https://zhuanlan.zhihu.com/p/360225583)
