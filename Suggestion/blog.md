@@ -30,3 +30,5 @@
 * [毕业陷入迷茫？吴恩达教你如何成为AI业界大佬](https://zhuanlan.zhihu.com/p/163777772)
 * [21页优雅读博指南：佐治亚理工学院助理教授Eric Gilbert撰写，入坑前必读](https://zhuanlan.zhihu.com/p/261083468)
 * [沈向洋博士：三十年科研路，我踩过的那些坑](https://zhuanlan.zhihu.com/p/298092553)
+
+* [干货|聊聊为什么技术要先广后精，对技术新人的几点建议](https://mp.weixin.qq.com/s/GjsoaUBiNKPkVx0f4jyklQ)
