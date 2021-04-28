@@ -55,3 +55,17 @@
 
 * [陌陌互联网广告投放平台](http://www.hmsmomo.com/)
 
+
+
+#### 13. 计算广告
+
+* [广告流量分析之评价指标的选择](https://mp.weixin.qq.com/s/SHnWbJqamd8pbAgOt2_-cQ)
+* [广告成本控制-PID算法](https://mp.weixin.qq.com/s/AG0vWHra9k8hci9tyDRl7A)
+* [广告出价--如何使用PID控制广告投放成本](https://mp.weixin.qq.com/s/5a5RhhUmaeBjNjerdxmY3g)
+* [PID算法在广告成本控制领域的应用](https://mp.weixin.qq.com/s/4iX1hB_f8zQYrG0EQ2u3wA)
+* [广告模型初探](https://mp.weixin.qq.com/s/dH4jOQSLdGnI9X1Z0dbI3w)
+* [联盟广告平台架构及实践](https://mp.weixin.qq.com/s/ns0GtvI0NDFAZf-Q1TlYbA)
+* [电商直播流量分配算法优化总结](https://mp.weixin.qq.com/s/zr4dYJ7q7pSOuJT_atnSYA)
+
+* [算力经济时代：阿里展示广告引擎的"柔性"变形之路](https://zhuanlan.zhihu.com/p/340467381)
+

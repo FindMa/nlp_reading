@@ -1,0 +1,1 @@
+[【论文笔记】TEM:结合GBDT叶节点嵌入的可解释推荐模型](https://mp.weixin.qq.com/s/SEvfWmaoJKLChRZhlbECIg)
