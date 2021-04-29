@@ -34,3 +34,5 @@ YOLOV5
 
 * [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/260400612)
 * [“快到没朋友”的目标检测模型YOLO v3问世，之后arXiv垮掉了…](https://zhuanlan.zhihu.com/p/34995629)
+
+* [超越YOLOv5！PP-YOLOv2：更快更好的目标检测网络](https://mp.weixin.qq.com/s/WoEnjA3LDI5VrNYecEo0cg)
