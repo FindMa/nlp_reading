@@ -18,7 +18,7 @@
 
 ### 腾讯
 
-[腾讯AI Lab联合清华、港中文，万字解读图深度学习历史、最新进展与应用](https://www.jiqizhixin.com/articles/2020-09-23-5)
+* [腾讯AI Lab联合清华、港中文，万字解读图深度学习历史、最新进展与应用](https://www.jiqizhixin.com/articles/2020-09-23-5)
 
 
 
