@@ -1,5 +1,7 @@
 * [如何看待Transformer在CV上的应用前景，未来有可能替代CNN吗？](https://www.zhihu.com/question/437495132/answer/1800881612)
 
+* [啥？Transformers又来刷CV的榜了？](https://mp.weixin.qq.com/s/2-58g_xQjtX8GSedl-WfVg)
+
 
 
 [2102.05095](https://arxiv.org/pdf/2102.05095.pdf)
@@ -25,3 +27,4 @@
 
 * [github](https://github.com/microsoft/Swin-Transformer)
 * [屠榜各大CV任务！Swin Transformer：层次化视觉Transformer](https://zhuanlan.zhihu.com/p/360225583)
+
