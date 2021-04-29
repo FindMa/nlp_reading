@@ -50,3 +50,5 @@
 
 * [周明：预训练模型在多语言、多模态任务的进展](https://www.msra.cn/zh-cn/news/features/ccai-2020-ming-zhou)
 * [FAIR2020 | 周明：预训练模型在多语言、多模态任务的应用](https://www.bilibili.com/video/av243948913/)
+
+* [复旦提出M2TR：首个多模态多尺度Transformer](https://mp.weixin.qq.com/s/luSTifAqIum-dDxFX6CAIQ)
