@@ -151,6 +151,7 @@
 * [[深度模型] 阿里大规模深度召回序列模型SDM](https://mp.weixin.qq.com/s/utEyovvxURGf3-yJkIlJaQ)
 * [SDM(Sequential Deep Matching Model)的复现之路]()
 * [KDD 20 | 亲兄弟明算账：快速了解阿里的M2GRL模型](https://mp.weixin.qq.com/s/zlgnOGhuzIlOha8Y6cwUxA)
+* [超越I2I和向量内积，淘宝新一代召回范式：PDN模型](https://mp.weixin.qq.com/s/3XXuzVZfAI0LdhJyCoMyeA)
 
 ##### (2) Embedding
 
@@ -301,8 +302,4 @@ Towards Question-based Recommender Systems
 GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection
 
 
-
-
-
-# 
 
